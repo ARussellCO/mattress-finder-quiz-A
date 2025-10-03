@@ -1,0 +1,11 @@
+* {
+    font-family: 'Inter', sans-serif;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.quiz-option {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 2px solid #e5e7eb;
+    min-height: 80px;
+    cursor: pointer;
+}
